@@ -7,7 +7,7 @@ public class TestBase {
 		
 		System.out.println("TestBase Class");
 		System.out.println("POM.xml");
-		System.out.println("Util");
+		System.out.println("Util class");
 	}
 
 }
